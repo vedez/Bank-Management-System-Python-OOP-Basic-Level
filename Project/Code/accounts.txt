@@ -1,0 +1,7 @@
+AC567138 | Current Account | 200
+AC141573 | Current Account | 100
+AS781174 | Savings Account | 250
+AS090928 | Savings Account | 120
+AC884386 | Current Account | -500
+AS756515 | Savings Account | 0
+AS682060 | Savings Account | 500
