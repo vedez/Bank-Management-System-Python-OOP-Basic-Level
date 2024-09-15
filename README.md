@@ -24,4 +24,4 @@ This system aims to provide a functional, secure, and user-friendly interface fo
 
 ### Others
 
-Language Used: Pythin OOP
+Language: Python OOP
