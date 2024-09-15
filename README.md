@@ -20,7 +20,7 @@ This project involves the development of a Bank Management System using Object-O
 
 This system aims to provide a functional, secure, and user-friendly interface for managing basic bank operations while demonstrating key concepts of object-oriented design.
 
-*More information @ [BMS Report](https://github.com/vedez/Bank_Project/blob/main/bank_oop_project.pdf)*
+*More information @ [BMS Report](https://github.com/vedez/Bank-Management-System-Python-OOP-Basic-Level/blob/main/bank_oop_project.pdf)*
 
 ### Others
 
